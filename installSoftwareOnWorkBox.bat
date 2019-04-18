@@ -12,9 +12,7 @@ choco install putty -fy
 choco install vscode -fy
 choco install visualstudio2017enterprise -fy
 choco install sql-server-management-studio -fy
-choco install evernote -fy
 choco install postman -fy
-choco install snagit -fy
 choco install resharper-platform -fy
 choco install dotnetcore-sdk -fy
 choco install webdeploy -fy
@@ -24,3 +22,4 @@ choco install sharepointdesigner2010x32 -fy
 choco install git -fy
 choco install lastpass -fy
 choco install firacode -fy
+choco install nugetpackageexplorer -fy
